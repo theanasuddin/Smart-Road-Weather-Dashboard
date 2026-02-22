@@ -70,7 +70,7 @@ API requests will automatically proxy to the backend.
 1.  Navigate to the dashboard directory:
     
     ```bash
-    cd UI/dashboard
+    cd dashboard
     
     ```
     
