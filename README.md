@@ -2,7 +2,7 @@
 # Smart Road Weather Dashboard  
 ### Real‑time Road, Traffic & Weather Insights for Finland
 
-This repository contains the implementation and documentation of the **Smart Road Weather Dashboard**, developed as part of the **[COMP.SE.110 Software Design](https://opiskelijanopas.tuni.fi/en/tampere-university/curriculum/course-units/tut-cu-g-36927?year=2025)** course at Tampere University.
+This repository contains the implementation and documentation of the **Smart Road Weather Dashboard**, developed as part of the **[Software Design](https://opiskelijanopas.tuni.fi/en/tampere-university/curriculum/course-units/tut-cu-g-36927?year=2025)** course at Tampere University.
 
 The dashboard integrates real‑time data from **Digitraffic** and the **Finnish Meteorological Institute (FMI)** to provide live road conditions, traffic camera feeds, weather forecasts, and safety indicators through an intuitive, map‑based interface.
 
