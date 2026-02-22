@@ -1,0 +1,26 @@
+services:
+  backend:
+    build:
+      context: ./smart-road-weather-dashboard   
+      dockerfile: Dockerfile                    
+    container_name: smart-road-weather-backend
+    ports:
+      - "8080:8080"                            
+    networks:
+      - app-network
+
+  frontend:
+    build:
+      context: ./UI                             
+      dockerfile: dockerfile                   
+    container_name: smart-road-weather-frontend
+    ports:
+      - "3000:80"                               
+    depends_on:
+      - backend
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
