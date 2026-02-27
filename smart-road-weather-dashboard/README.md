@@ -8,15 +8,15 @@ The backend integrates **Digitraffic** and **Finnish Meteorological Institute (F
 
 ## **Table of Contents**
 
--   [Overview]()
--   [Environment Requirements]()
--   [Getting Started]()
-    -   [Clone the Repository]()
-    -   [Build and Run]()
--   [Swagger UI — API Documentation]()
--   [Project Structure]()
--   [Dependencies]()
--   [Troubleshooting]()
+-   [Overview](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/smart-road-weather-dashboard/README.md#overview)
+-   [Environment Requirements](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/smart-road-weather-dashboard/README.md#environment-requirements)
+-   [Getting Started](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/smart-road-weather-dashboard/README.md#getting-started)
+    -   [Clone the Repository](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/smart-road-weather-dashboard/README.md#clone-the-repository)
+    -   [Build and Run](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/smart-road-weather-dashboard/README.md#build-and-run)
+-   [Swagger UI — API Documentation](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/smart-road-weather-dashboard/README.md#swagger-ui--api-documentation)
+-   [Project Structure](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/smart-road-weather-dashboard/README.md#project-structure)
+-   [Dependencies](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/smart-road-weather-dashboard/README.md#dependencies)
+-   [Troubleshooting](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/smart-road-weather-dashboard/README.md#troubleshooting)
 
 ----------
 
@@ -25,7 +25,7 @@ The backend integrates **Digitraffic** and **Finnish Meteorological Institute (F
 The backend exposes REST APIs for:
 
 -   Searching locations by city, road name, or coordinates
--   Generating route summaries including:
+-   Generating route summaries, including:
     -   Road conditions
     -   Weather forecasts
     -   Traffic flow
