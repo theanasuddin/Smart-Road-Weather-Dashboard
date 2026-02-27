@@ -44,7 +44,7 @@ The system follows principles of good software design, including:
 ---
 
 ## Running the Application Locally
-Setup and execution instructions are provided in the `/docs` folder.  
+Setup and execution instructions are provided in the `/docs` folder. Here is the *[full system setup guide](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/docs/README.md)*  
 The application is designed to run locally without external hosting.
 
 ---
