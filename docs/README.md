@@ -90,8 +90,5 @@ docker compose down
 
 If you prefer to run services separately:
 
--   **Backend setup guide:**  
-    `./smart-road-weather-dashboard/README.md`
-    
--   **Frontend setup guide:**  
-    `./UI/README.md`
+-   **[Backend setup guide](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/smart-road-weather-dashboard/README.md)**  
+-   **[Frontend setup guide](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/blob/master/UI/README.md)**  
